@@ -1,0 +1,18 @@
+# MSPortál
+
+## Problémy současného stavu
+
+Nejvážnější problém portál je, že není postaven na architektornickém řešení projektu. Tento nedostatek znemožňuje nebo alespoň výrazně prodlužuje dlouhodobý vývoj projektu. 
+
+## Potencionální hrozby
+
+## Architektura
+
+## Technologie
+
+### Spring
+
+### Hibernate
+
+### React JS
+
